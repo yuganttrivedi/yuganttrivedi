@@ -36,14 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Yugant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuganttrivedi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuganttrivedi&layout=compact&theme=radical)
-
----
-
 ## 🎓 Certifications & Achievements
 - ✅ Secured SSIP grant for Performance Evaluation project (Aug 2025)  
 - ✅ Completed Deloitte Forage Technology Job Simulation (June 2025)  
