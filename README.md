@@ -23,7 +23,7 @@ I’m passionate about leveraging technology to solve real-world problems and al
 - MySQL | Git | Docker | Postman | VS Code  
 
 **Libraries & Tech**  
-- Tesseract OCR | PaddleOCR | NumPy | Pandas (Basics) | OpenCV (Basics)  
+- Tesseract OCR | PaddleOCR | NumPy | Pandas| OpenCV  
 
 ---
 
