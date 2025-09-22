@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Languages and Tools  
+## Languages and Tools  
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
