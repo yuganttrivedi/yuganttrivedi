@@ -1,5 +1,3 @@
-# Yugant Trivedi  
-
 **Full-Stack Developer | AI Enthusiast**  
 
 ---
