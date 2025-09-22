@@ -23,7 +23,15 @@ I’m passionate about leveraging technology to solve real-world problems and al
 - MySQL | Git | Docker | Postman | VS Code  
 
 **Libraries & Tech**  
-- Tesseract OCR | PaddleOCR | NumPy | Pandas| OpenCV  
+- Tesseract OCR | PaddleOCR | NumPy | Pandas | OpenCV  
+
+---
+
+## Projects  
+
+- **AI Agent for OCR** – AI-powered web app for multilingual text extraction from images & PDFs.  
+- **Expense Tracker** – A full-stack application for managing daily expenses with authentication and analytics.  
+- **GemAI-Chatbot** – Conversational AI chatbot using Gemini API and FastAPI backend.  
 
 ---
 
