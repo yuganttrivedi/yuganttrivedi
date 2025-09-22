@@ -15,17 +15,22 @@
 
 ## Languages and Tools  
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5) 
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) 
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square&logo=fastapi) 
 ![Tesseract OCR](https://img.shields.io/badge/-Tesseract-black?style=flat-square)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square)  
+
+**Databases & Tools**  
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql) 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) 
 
 ---
 
