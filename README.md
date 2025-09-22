@@ -1,46 +1,44 @@
-# Yugant Trivedi
+# Yugant Trivedi  
 
-👋 Hi, I'm Yugant Trivedi  
-🎓 Computer Science & Engineering Student | Full-Stack Developer | AI Enthusiast  
-
----
-
-## 💼 About Me
-- 🚀 Building scalable web apps using React.js, Django, and integrating AI-based solutions  
-- 🔧 Skilled in Python, JavaScript, SQL, MySQL, Tesseract OCR, FastAPI, and API development  
-- 🌐 Passionate about solving real-world problems through technology  
-- 🎯 Currently working on AI-powered OCR projects, Expense Tracker, and GemAI-Chatbot  
+**Full-Stack Developer | AI Enthusiast**  
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuganttrivedi)  
-📧 yuganttrivedi2212@gmail.com  
-🌐 [GitHub Projects](https://github.com/yuganttrivedi?tab=repositories)  
+## About Me  
+
+Full-stack developer with experience in building scalable web applications and AI-powered solutions. Skilled in **React.js, Django, FastAPI, and OCR technologies**, I focus on creating robust systems, seamless API integrations, and user-friendly products.  
+
+Through collaborative projects and independent development work, I’ve gained practical exposure to real-world software practices — from designing responsive interfaces to deploying backend services.  
+
+I’m passionate about leveraging technology to solve real-world problems and always open to opportunities in **frontend, full-stack, and applied AI development**.  
 
 ---
 
-## 🛠️ Languages and Tools
+## Skills & Tools  
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
-![Tesseract OCR](https://img.shields.io/badge/-Tesseract-black?style=flat-square)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square)  
+**Languages & Frameworks**  
+- Python | JavaScript | React.js | Django | FastAPI  
+
+**Databases & Tools**  
+- MySQL | Git | Docker | Postman | VS Code  
+
+**Libraries & Tech**  
+- Tesseract OCR | PaddleOCR | NumPy | Pandas (Basics) | OpenCV (Basics)  
 
 ---
 
-## 🎓 Certifications & Achievements
-- ✅ Secured SSIP grant for Performance Evaluation project (Aug 2025)  
-- ✅ Completed Deloitte Forage Technology Job Simulation (June 2025)  
-- ✅ KCG Soft Skill Development Training (Dec 2021 – Jan 2022)  
+## Achievements & Certifications  
+
+- Awarded **SSIP Grant** for Performance Evaluation project (Aug 2025)  
+- Completed **Deloitte Forage Technology Job Simulation** (June 2025)  
+- Participated in **KCG Soft Skill Development Training** (Dec 2021 – Jan 2022)  
 
 ---
 
-✨ Let’s build something amazing together!
+## Connect  
+
+📧 **yuganttrivedi2212@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/yuganttrivedi)  
+🔗 [GitHub](https://github.com/yuganttrivedi)  
+
+---
