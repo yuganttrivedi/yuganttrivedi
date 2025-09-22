@@ -6,20 +6,10 @@
 
 ## About Me  
 
-- Full-stack developer with experience in building scalable web applications and AI-powered solutions.  
-- Skilled in **React.js, Django, FastAPI, and OCR technologies**, with focus on creating robust systems and user-friendly products.  
-- Gained practical exposure to professional development practices through collaborative projects and independent work.  
-- Passionate about solving real-world problems with technology, open to opportunities in **frontend, full-stack, and applied AI development**.  
-
-
-## About Me  
-
 - <div align="justify">Full-stack developer with experience in building scalable web applications and AI-powered solutions.</div>  
 - <div align="justify">Skilled in <b>React.js, Django, FastAPI, and OCR technologies</b>, with focus on creating robust systems and user-friendly products.</div>  
 - <div align="justify">Gained practical exposure to professional development practices through collaborative projects and independent work.</div>  
 - <div align="justify">Passionate about solving real-world problems with technology, open to opportunities in <b>frontend, full-stack, and applied AI development</b>.</div>  
-
-
 
 ---
 
