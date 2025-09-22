@@ -11,14 +11,14 @@
 - Gained practical exposure to professional development practices through collaborative projects and independent work.  
 - Passionate about solving real-world problems with technology, open to opportunities in **frontend, full-stack, and applied AI development**.  
 
+
 ## About Me  
 
-<p align="justify">
-Full-stack developer with experience in building scalable web applications and AI-powered solutions.  
-Skilled in <b>React.js, Django, FastAPI, and OCR technologies</b>, with focus on creating robust systems and user-friendly products.  
-Gained practical exposure to professional development practices through collaborative projects and independent work.  
-Passionate about solving real-world problems with technology, open to opportunities in <b>frontend, full-stack, and applied AI development</b>.
-</p>
+- <p align="justify">Full-stack developer with experience in building scalable web applications and AI-powered solutions.</p>  
+- <p align="justify">Skilled in <b>React.js, Django, FastAPI, and OCR technologies</b>, with focus on creating robust systems and user-friendly products.</p>  
+- <p align="justify">Gained practical exposure to professional development practices through collaborative projects and independent work.</p>  
+- <p align="justify">Passionate about solving real-world problems with technology, open to opportunities in <b>frontend, full-stack, and applied AI development</b>.</p>  
+
 
 ---
 
