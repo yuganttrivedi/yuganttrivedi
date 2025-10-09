@@ -24,6 +24,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
 [![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-black.svg)](https://github.com/tesseract-ocr/tesseract)  
 
+**Databases & Tools**
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)  
 [![Git](https://img.shields.io/badge/Git-2.45-black.svg?logo=git&logoColor=white)](https://git-scm.com/)  
 [![Docker](https://img.shields.io/badge/Docker-26.1-blue.svg?logo=docker&logoColor=white)](https://www.docker.com/)  
