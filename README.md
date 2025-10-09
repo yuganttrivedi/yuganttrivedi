@@ -13,22 +13,20 @@
 
 ## Languages and Tools  
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)  
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg?logo=python&logoColor=white)](https://www.python.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![HTML5](https://img.shields.io/badge/HTML5-5-orange.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[![CSS3](https://img.shields.io/badge/CSS3-3-blue.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) 
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square&logo=fastapi) 
-![Tesseract OCR](https://img.shields.io/badge/-Tesseract-black?style=flat-square)  
+[![React](https://img.shields.io/badge/React-18.3-blue.svg?logo=react&logoColor=white)](https://react.dev/)  
+[![Django](https://img.shields.io/badge/Django-5.0-darkgreen.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
+[![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-black.svg)](https://github.com/tesseract-ocr/tesseract)  
 
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) 
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![Git](https://img.shields.io/badge/Git-2.45-black.svg?logo=git&logoColor=white)](https://git-scm.com/)  
+[![Docker](https://img.shields.io/badge/Docker-26.1-blue.svg?logo=docker&logoColor=white)](https://www.docker.com/)  
 
 ---
 
